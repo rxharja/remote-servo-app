@@ -11,4 +11,4 @@ Arduino Code
 Arduino logic that listens for inputs from the serial port and sets the value for the servo motor, adjusting its angle.
 
 At a high level:
-![Component and Connector Diagram of High Level Diagram](https://github.com/rxharja/remote-servo-app/blob/master/Images/Screen%20Shot%202021-09-20%20at%209.03.48%20PM.png)
+![Component and Connector Diagram of High Level Diagram](https://raw.githubusercontent.com/rxharja/remote-servo-app/master/Images/Screen%20Shot%202021-09-20%20at%209.03.48%20PM.png)
